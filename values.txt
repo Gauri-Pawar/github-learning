@@ -1,0 +1,26 @@
+Controllercv!!!!!
+
+MY_Controller
+
+login
+===================
+
+View !!!!!!
+
+articles_list
+
+admin_login
+
+public_header
+
+Admin view!!!!!
+
+dashboard.php
+
+=================
+model !!!!!!
+
+loginmodel
+
+view=add article code with ajax doing by binod
+controller: admin
